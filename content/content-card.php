@@ -8,7 +8,7 @@
  <?php endif;?>
   <div class="card-body">
     <h5 class="card-title"><?php echo get_the_title( );?></h5>
-    <p class="card-text"><?php echo get_the_excerpt();?></p>
+    <p class="card-text"><?php echo pietergoosen_custom_excerpts(20);?></p>
     <a href="<?php echo get_post_permalink(); ?>" class="btn btn-primary">Conocer más</a>
   </div>
 </div>
