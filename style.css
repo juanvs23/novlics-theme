@@ -1,0 +1,22 @@
+/*
+Theme Name: Novelics
+Theme URI: 
+Author: Juan Carlos Avila Pérez
+Author URI: https://coltman-desing.tk/
+Description: tema prueba para novelics
+Version: 1.0.0
+Text Domain: novelics
+*/
+html,body{
+    overflow-x: hidden;
+    
+}
+.menu-footer-container ul {
+    display: flex;
+    justify-content: center;
+    padding: 0;
+}
+.menu-footer-container ul li {
+    padding: 0 15px;
+    list-style-type: none;
+}
