@@ -5,9 +5,10 @@ Este es un tema de prueba y starter para novilics, tiene instalado para el front
 1. single.php
 2. archive.php
 3. index.php
-4. functions
-5. style.css
-6. content - carpeta con secciones de template
+4. page.php
+5. functions.php
+6. style.css
+7. content - carpeta con secciones de template
 
 ## Proximas pruebas
 Agregar page.php
